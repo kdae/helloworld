@@ -1,0 +1,12 @@
+{
+    "name": "kdae/helloworld",
+    "description": "Say hello",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kristof Daems",
+            "email": "daems.kristof@gmail.com"
+        }
+    ],
+    "require": {}
+}
